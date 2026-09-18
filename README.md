@@ -11,4 +11,8 @@ DSA
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/rikzariyas/Leetcode-DSA/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rikzariyas/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
